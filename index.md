@@ -28,6 +28,7 @@ bayar.menzat@gmail.com
 
 
 ![image](https://user-images.githubusercontent.com/33934892/236750453-58afa5f5-ee29-43db-9e24-127338e88fce.png)
+
 | Diagnosis | Explanation |
 | --- | --- |
 | Atelactasis | Bibasilar opacities are most compatible with atelectasis in the setting of low lung volumes. |
@@ -35,9 +36,11 @@ bayar.menzat@gmail.com
 
 ![image](https://user-images.githubusercontent.com/33934892/236750416-d5b7bd49-1f42-46fe-bf56-9e7cb30b88a4.png)
 
+
 | Diagnosis | Explanation |
 | --- | --- |
 | Pneumonia | Patchy bibasilar airspace opacities are more pronounced on the right, and are concerning for areas of infection. |
+
 
 
 ![image](https://user-images.githubusercontent.com/33934892/236750396-47e4d792-5c1d-4e2d-86d1-f3e2543625a1.png)
