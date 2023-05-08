@@ -41,7 +41,7 @@ bayar.menzat@gmail.com
 
 
 
-Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
+
 
 ![image](https://user-images.githubusercontent.com/33934892/236750355-c9bdc51c-2ffa-4dad-ad4c-395d2b1cb970.png)
 
@@ -51,3 +51,4 @@ Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul
 | Edema | There is still low lung volumes with bilateral perihilar opacification, due to moderate pulmonary edema. |
 
 
+Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
