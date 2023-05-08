@@ -6,7 +6,9 @@ Laboratorul nostru cerceteaza modele care pot invata sa puna un diagnostic pe ba
 Aceasta munca este complet academica si ne dorim cu ajutorul unor radiologi care in clipa asta fac stagiul sa evaluam modelul si sa intelegem mai bine care sunt avantajele si dezvantajele acestor modele. 
 
 Pentru a participa la acest proiect trebuie sa fi-ti rezidenti in radiologie si sa aveti 3 ore la dispozitie pentru a ne ajuta. 2 ore vor consta in a evalua explicatiile generate de model cu calificativ si aproximativ 1 ora va consta intr-un interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
-In schimbul efortului dumneavoastra va vom oferi un 
+
+
+In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de aproximativ 40 de lire si veti fi mentionati in lucrare in sectiunea de Acknowledgement. Acest studiu este academic si nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
 
 Daca vreti sa luati parte din acest proiect puteti sa ma adaugati pe facebook sau pe email:
 
