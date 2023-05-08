@@ -1,5 +1,10 @@
 Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford. 
-Va cer ajutorul pentru un proiect in care evaluam modelele 
+Laboratorul nostru cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii si evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze mai bine rezultatele modelului.
+
+Aceasta munca este complet academica si ne dorim cu ajutorul unor radiologi care in clipa asta fac stagiul sa evaluam modelul si sa intelegem mai bine care sunt avantajele si dezvantajele acestor modele. 
+
+Pentru a participa la acest proiect trebuie sa fi-ti rezidenti in radiologie si sa aveti 3 ore la dispozitie pentru a ne ajuta. 2 ore vor consta in a evalua explicatiile generate de model cu calificativ si aproximativ 1 ora va consta intr-un interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+In schimbul efortului dumneavoastra va vom oferi un 
 
 Daca vreti sa luati parte din acest proiect puteti sa ma adaugati pe facebook sau pe email:
 https://www.facebook.com/bayaristotle
@@ -34,6 +39,9 @@ bayar.menzat@gmail.com
 | Pleural Effusion | There is a left retrocardiac opacity and small left pleural effusion. |
 
 
+
+
+Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
 
 ![image](https://user-images.githubusercontent.com/33934892/236750355-c9bdc51c-2ffa-4dad-ad4c-395d2b1cb970.png)
 
