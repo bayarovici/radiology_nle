@@ -65,6 +65,7 @@ bayar.menzat@gmail.com
 Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
 
 ![image](https://user-images.githubusercontent.com/33934892/236856238-1f3f0956-f042-4910-98e5-43b686982c82.png)
+
 | Diagnosis | Explanation |
 | --- | --- |
-| Pleural Effusion |  - |
+| Pleural Effusion |  n/a |
