@@ -1,3 +1,5 @@
+## Interpretarea radiografiilor cu ajutorul modelelor de AI
+
 Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford. 
 Laboratorul nostru cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii si evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze mai bine rezultatele modelului.
 
@@ -7,8 +9,13 @@ Pentru a participa la acest proiect trebuie sa fi-ti rezidenti in radiologie si 
 In schimbul efortului dumneavoastra va vom oferi un 
 
 Daca vreti sa luati parte din acest proiect puteti sa ma adaugati pe facebook sau pe email:
+
 https://www.facebook.com/bayaristotle
+
 bayar.menzat@gmail.com
+
+
+## Exemple 
 
 ![image](https://user-images.githubusercontent.com/33934892/236748949-5df05b85-8d80-4080-be38-d02be02e09ff.png)
 
@@ -54,6 +61,7 @@ bayar.menzat@gmail.com
 
 
 Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
+
 ![image](https://user-images.githubusercontent.com/33934892/236856238-1f3f0956-f042-4910-98e5-43b686982c82.png)
 | Diagnosis | Explanation |
 | --- | --- |
