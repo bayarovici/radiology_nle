@@ -27,10 +27,7 @@ https://www.facebook.com/bayaristotle
 https://www.linkedin.com/in/bayar-menzat-75b47a52/
 
 Vom incepe sa va oferim link-ul in jurul datei de 31 mai, adica peste 3 saptamani si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
-Va multumesc mult de tot.
-
-Dr Bayar Menzat
-DPhil Oxon
+Va multumesc mult de tot, puteti vedea exemplele mai jos:
 ## Exemple 
 
 ![image](https://user-images.githubusercontent.com/33934892/236748949-5df05b85-8d80-4080-be38-d02be02e09ff.png)
