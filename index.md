@@ -22,9 +22,9 @@ bayar.menzat@gmail.com
 
 Sau sa ma adaugati pe facebook:
 
-https://www.facebook.com/bayaristotle
+[https://www.facebook.com/bayaristotle](https://www.facebook.com/bayaristotle)
 
-https://www.linkedin.com/in/bayar-menzat-75b47a52/
+[https://www.linkedin.com/in/bayar-menzat-75b47a52/](https://www.facebook.com/bayaristotle)
 
 Vom incepe sa va oferim link-ul in jurul datei de 31 mai, adica peste 3 saptamani si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
 Va multumesc mult de tot, puteti vedea exemplele mai jos:
