@@ -1,20 +1,21 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
-Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford. 
-Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii. In proiectul actual evaluam cum explicatiile pe care modelul este antrenat sa le genereze in limbaj uman, pot ajuta radiologii sa interpeteze/inteleaga mai bine rezulltatele.
+Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford.  
+Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii. In proiectul actual evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze/inteleaga mai bine rezulltatele.
 
-Aceast proiect este 100% academic si ne dorim cu ajutorul vostru (radiologi care sunt in etapa specializarii) sa evaluam explicatiile. 
+Aceast proiect este 100% academic si ne dorim cu ajutorul vostru (radiologi care sunt in etapa specializarii) sa evaluam aceste explicatii. 
 
 Pentru a participa la acest proiect trebuie sa:
 - fi-ti rezidenti in radiologie 
-- sa aveti aproximativ 2 ore la dispozitie pentru a ne ajuta. 
 - sa puteti intelege explicatiile in limba Engleza.
 
 
-Task-ul va consta in accesarea unor taskuri in care veti vedea radiografii si explicatiile generate de model si va trebui sa le acordati un calificativ. Dupa terminarea task-ului vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+Task-ul va consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Dupa terminarea task-ului vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+Timp aproximativ necesar: ~2.5 ore
+Totul se va petrece online, iar interviu va avea loc pe Zoom. 
 
 
-In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard + veti fi mentionati in lucrare in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
+In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de 50 de lire + veti fi mentionati in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
 
 Daca vreti sa luati parte din acest proiect puteti sa imi trimiteti un scurt e-mail la adresa:
 
