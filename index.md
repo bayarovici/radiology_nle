@@ -1,11 +1,17 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
 Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford. 
-Laboratorul nostru cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii si evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze mai bine rezultatele modelului.
+Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii. In proiectul actual evaluam cum explicatiile pe care modelul este antrenat sa le genereze in limbaj uman, pot ajuta radiologii sa interpeteze/inteleaga mai bine rezulltatele.
 
-Aceasta munca este complet academica si ne dorim cu ajutorul unor radiologi care in clipa asta fac stagiul sa evaluam modelul si sa intelegem mai bine care sunt avantajele si dezvantajele acestor modele. 
+Aceast proiect este 100% academic si ne dorim cu ajutorul vostru (radiologi care sunt in etapa specializarii) sa evaluam explicatiile. 
 
-Pentru a participa la acest proiect trebuie sa fi-ti rezidenti in radiologie si sa aveti 3 ore la dispozitie pentru a ne ajuta. 2 ore vor consta in a evalua explicatiile generate de model cu calificativ si aproximativ 1 ora va consta intr-un interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+Pentru a participa la acest proiect trebuie sa:
+- fi-ti rezidenti in radiologie 
+- sa aveti aproximativ 2 ore la dispozitie pentru a ne ajuta. 
+- sa puteti intelege explicatiile in limba Engleza.
+
+
+Task-ul va consta in accesarea unor taskuri in care veti vedea radiografii si explicatiile generate de model si va trebui sa le acordati un calificativ. Dupa terminarea task-ului vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
 
 
 In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de aproximativ 40 de lire si veti fi mentionati in lucrare in sectiunea de Acknowledgement. Acest studiu este academic si nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
@@ -27,11 +33,6 @@ bayar.menzat@gmail.com
 | Pneumonia | Consolidative opacity within the right upper lobe is concerning for pneumonia. |
 
 
-![image](https://user-images.githubusercontent.com/33934892/236750453-58afa5f5-ee29-43db-9e24-127338e88fce.png)
-
-| Diagnosis | Explanation |
-| --- | --- |
-| Atelactasis | Bibasilar opacities are most compatible with atelectasis in the setting of low lung volumes. |
 
 
 ![image](https://user-images.githubusercontent.com/33934892/236750416-d5b7bd49-1f42-46fe-bf56-9e7cb30b88a4.png)
