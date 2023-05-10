@@ -17,7 +17,7 @@ Totul se va petrece online, iar interviu va avea loc pe Zoom.
 
 In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de 50 de lire + veti fi mentionati in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
 
-Daca vreti sa luati parte din acest proiect puteti scrie pe e-mail la adresa:
+Daca vreti sa luati parte in acest proiect imi puteti scrie pe e-mail la adresa:
 bayar.menzat@gmail.com
 
 Sau sa ma adaugati pe facebook:
@@ -26,7 +26,7 @@ Sau sa ma adaugati pe facebook:
 
 [https://www.linkedin.com/in/bayar-menzat-75b47a52/](https://www.facebook.com/bayaristotle)
 
-Vom incepe sa va oferim link-ul in jurul datei de 31 mai, adica peste 3 saptamani si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
+Vom incepe sa va oferim link-ul de care aveti nevoie pentru cerinta in jurul datei de 31 mai si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
 
 Va multumesc mult de tot, puteti vedea exemplele mai jos:
 ## Exemple 
