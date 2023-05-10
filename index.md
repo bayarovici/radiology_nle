@@ -14,14 +14,17 @@ Pentru a participa la acest proiect trebuie sa:
 Task-ul va consta in accesarea unor taskuri in care veti vedea radiografii si explicatiile generate de model si va trebui sa le acordati un calificativ. Dupa terminarea task-ului vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
 
 
-In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de aproximativ 40 de lire si veti fi mentionati in lucrare in sectiunea de Acknowledgement. Acest studiu este academic si nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
+In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard + veti fi mentionati in lucrare in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
 
-Daca vreti sa luati parte din acest proiect puteti sa ma adaugati pe facebook sau pe email:
-
-https://www.facebook.com/bayaristotle
+Daca vreti sa luati parte din acest proiect puteti sa imi trimiteti un scurt e-mail la adresa:
 
 bayar.menzat@gmail.com
 
+Sau sa ma adaugati pe facebook:
+
+https://www.facebook.com/bayaristotle
+
+https://www.linkedin.com/in/bayar-menzat-75b47a52/
 
 ## Exemple 
 
