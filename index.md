@@ -6,11 +6,11 @@ Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot in
 Aceast proiect este 100% academic si ne dorim cu ajutorul vostru (radiologi care sunt in etapa specializarii) sa evaluam aceste explicatii. 
 
 Pentru a participa la acest proiect trebuie sa:
-- fi-ti rezidenti in radiologie 
+- fiti rezidenti in radiologie 
 - sa puteti intelege explicatiile in limba Engleza.
 
 
-Task-ul va consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Dupa terminarea task-ului vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+Task-ul sau cerinta va consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Dupa terminarea lui vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
 Timp aproximativ necesar: ~2.5 ore
 Totul se va petrece online, iar interviu va avea loc pe Zoom. 
 
