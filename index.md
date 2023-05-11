@@ -22,9 +22,9 @@ bayar.menzat@gmail.com
 
 Sau sa ma adaugati pe facebook:
 
-[https://www.facebook.com/bayaristotle](https://www.facebook.com/bayaristotle)
+https://www.facebook.com/bayaristotle
 
-[https://www.linkedin.com/in/bayar-menzat-75b47a52/](https://www.facebook.com/bayaristotle)
+https://www.linkedin.com/in/bayar-menzat-75b47a52/
 
 Vom incepe sa va oferim link-ul de care aveti nevoie pentru cerinta in jurul datei de 31 mai si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
 
