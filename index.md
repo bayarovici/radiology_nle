@@ -11,11 +11,14 @@ Pentru a participa la acest proiect trebuie sa:
 - sa aveti la dispozitie 2.5 ore pentru a evalua explicatiile unui model si a avea un interviu cu noi.
 
 Daca vreti sa luati parte in acest proiect imi puteti scrie pe e-mail la adresa:
+
 bayar.menzat@gmail.com
 
 Sau sa ma adaugati pe facebook:
 
 https://www.facebook.com/bayaristotle
+
+sau pe Linkedin:
 
 https://www.linkedin.com/in/bayar-menzat-75b47a52/
 
