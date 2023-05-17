@@ -1,28 +1,26 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
 Buna ziua! Ma numesc Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford.  
-Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unei radiografii. 
 
-In proiectul actual evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze/inteleaga mai bine rezultatele (Explainable AI) si vom face un user study in care cu ajutorul dumneavoastra vom evalua aceste modele.
+Grupul nostru lucrează la un proiect care are ca scop evaluarea calității explicatiilor pe care le poate genera un model de AI atunci când pune un diagnostic pe o radiografie si vrem sa aflam ce parere aveti dumneavoastra!
+
 
 Pentru a participa la acest proiect trebuie sa:
 - fiti rezidenti in radiologie 
 - sa puteti intelege explicatiile in limba Engleza.
 - sa aveti la dispozitie 2.5 ore pentru a evalua explicatiile unui model si a avea un interviu cu noi.
 
-Daca vreti sa luati parte in acest proiect imi puteti scrie pe e-mail la adresa:
+Daca vreti sa luati parte din acest proiect sau aveti intrebari, imi puteti scrie pe e-mail la adresa:
 
 bayar.menzat@gmail.com
 
-Sau sa ma adaugati pe facebook:
+Sau pe facebook:
 
 https://www.facebook.com/bayaristotle
 
-sau pe Linkedin:
-
 https://www.linkedin.com/in/bayar-menzat-75b47a52/
 
-Mai jos explic pe larg in ce consta proiectul si ofer exemple pe care le ve puteti vedea
+In paragrafele urmatoare puteti citi detaliile proiectului si exemple din task:
 
 
 Task-ul/cerinta consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Apoi va urma un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
