@@ -1,21 +1,14 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
-Buna ziua! Numele meu este Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford.  
-Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unor radiografii. In proiectul actual evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze/inteleaga mai bine rezulltatele.
+Buna ziua! Ma numesc Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford.  
+Laboratorul nostru se ocupa de "Explainable AI" si cerceteaza modele care pot invata sa puna un diagnostic pe baza unei radiografii. 
 
-Aceast proiect este 100% academic si ne dorim cu ajutorul vostru (radiologi care sunt in etapa specializarii) sa evaluam aceste explicatii. 
+In proiectul actual evaluam cum explicatiile generate de model pot ajuta radiologii sa interpeteze/inteleaga mai bine rezultatele (Explainable AI) si vom face un user study in care cu ajutorul dumneavoastra vom evalua aceste modele.
 
 Pentru a participa la acest proiect trebuie sa:
 - fiti rezidenti in radiologie 
 - sa puteti intelege explicatiile in limba Engleza.
-
-
-Task-ul sau cerinta va consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Dupa terminarea lui vom programa un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
-Timp aproximativ necesar: ~2.5 ore
-Totul se va petrece online, iar interviu va avea loc pe Zoom. 
-
-
-In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard in valoare de 50 de lire + veti fi mentionati in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
+- sa aveti la dispozitie 2.5 ore pentru a evalua explicatiile unui model si a avea un interviu cu noi.
 
 Daca vreti sa luati parte in acest proiect imi puteti scrie pe e-mail la adresa:
 bayar.menzat@gmail.com
@@ -25,6 +18,17 @@ Sau sa ma adaugati pe facebook:
 https://www.facebook.com/bayaristotle
 
 https://www.linkedin.com/in/bayar-menzat-75b47a52/
+
+Mai jos explic pe larg in ce consta proiectul si ofer exemple pe care le ve puteti vedea
+
+
+Task-ul/cerinta consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Apoi va urma un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
+Timp aproximativ necesar: ~2.5 ore
+Totul se va petrece online, iar interviu va avea loc pe Zoom. 
+
+
+In schimbul efortului dumneavoastra va vom oferi un Amazon Giftcard si veti fi mentionati in sectiunea de Acknowledgement al paperului pe care il vom publica. Acest studiu nu are un scop comercial. Toate rezultatele vor fi publicate intr-un jurnal inclusiv modelul pe care il vom folosi.
+
 
 Vom incepe sa va oferim link-ul de care aveti nevoie pentru cerinta in jurul datei de 31 mai si tot atunci va vom programa pentru interviu in functie de timpul dumneavoastra.
 
