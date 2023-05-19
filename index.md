@@ -38,8 +38,7 @@ Vom incepe sa va oferim link-ul de care aveti nevoie pentru cerinta in jurul dat
 Va multumesc mult de tot, puteti vedea exemplele mai jos:
 ## Exemple 
 
-![image](https://user-images.githubusercontent.com/33934892/236748949-5df05b85-8d80-4080-be38-d02be02e09ff.png)
-
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22" width="300" height="300">
 
 | Diagnosis | Explanation |
 | --- | --- |
@@ -47,9 +46,7 @@ Va multumesc mult de tot, puteti vedea exemplele mai jos:
 
 
 
-
-![image](https://user-images.githubusercontent.com/33934892/236750416-d5b7bd49-1f42-46fe-bf56-9e7cb30b88a4.png)
-
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22" width="300" height="300">
 
 | Diagnosis | Explanation |
 | --- | --- |
@@ -57,8 +54,7 @@ Va multumesc mult de tot, puteti vedea exemplele mai jos:
 
 
 
-![image](https://user-images.githubusercontent.com/33934892/236750396-47e4d792-5c1d-4e2d-86d1-f3e2543625a1.png)
-
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22" width="300" height="300">
 
 | Diagnosis | Explanation |
 | --- | --- |
@@ -66,11 +62,7 @@ Va multumesc mult de tot, puteti vedea exemplele mai jos:
 
 
 
-
-
-
-![image](https://user-images.githubusercontent.com/33934892/236750355-c9bdc51c-2ffa-4dad-ad4c-395d2b1cb970.png)
-
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22" width="300" height="300">
 
 | Diagnosis | Explanation |
 | --- | --- |
@@ -78,11 +70,8 @@ Va multumesc mult de tot, puteti vedea exemplele mai jos:
 
 
 
-
-Un al doilea gen de explicatii sunt cele care ofera indicii vizuale de urmatorul gen:
-
-![image](https://user-images.githubusercontent.com/33934892/236856238-1f3f0956-f042-4910-98e5-43b686982c82.png)
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22" width="300" height="300">
 
 | Diagnosis | Explanation |
 | --- | --- |
-| Pleural Effusion |  n/a |
+| Pleural Effusion | n/a |
