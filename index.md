@@ -15,17 +15,17 @@ Pentru a participa la acest proiect trebuie sa:
 - sa puteti intelege explicatiile in limba Engleza.
 - sa aveti la dispozitie 2.5 ore pentru a evalua explicatiile unui model si a avea un interviu cu noi.
 
-Daca vreti sa luati parte din acest proiect sau aveti intrebari, imi puteti scrie pe e-mail la adresa:
+Dacă doriți să luați parte din acest proiect sau aveți întrebări, mă puteți contacta prin e-mail la adresa:
 
-bayar.menzat@gmail.com
+[bayar.menzat@gmail.com](mailto:bayar.menzat@gmail.com)
 
-Sau pe facebook:
+Sau pe Facebook:
 
-https://www.facebook.com/bayaristotle
+[https://www.facebook.com/bayaristotle](https://www.facebook.com/bayaristotle)
 
-https://www.linkedin.com/in/bayar-menzat-75b47a52/
+[https://www.linkedin.com/in/bayar-menzat-75b47a52/](https://www.linkedin.com/in/bayar-menzat-75b47a52/)
 
-In paragrafele urmatoare puteti citi detaliile proiectului si exemple din task:
+În paragrafele următoare puteți citi detalii despre proiect și exemple din task.
 
 
 Task-ul/cerinta consta in accesarea unui website in care vor fi prezentate un set de radiografii si explicatiile generate de model, iar voi va trebui sa le acordati un calificativ (1-5). Apoi va urma un scurt interviu pe care il veti avea cu mine si un coleg al meu care a lucrat la constructia acestui model.
