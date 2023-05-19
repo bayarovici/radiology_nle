@@ -1,5 +1,5 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
-![image](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22 | width=100)
+![image](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22){:height="36px" width="36px"}
 
 
  [![Prezentare video:]
