@@ -1,4 +1,7 @@
-<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22"  width="100" height="100"> Interpretarea radiografiilor cu ajutorul modelelor de AI
+<img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22"  width="100" height="100"> 
+
+
+## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
 
 
