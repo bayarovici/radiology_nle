@@ -1,13 +1,6 @@
 <img src="https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22"  width="100" height="100"> 
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 
- [![Prezentare video:]
-()]
-([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://www.youtube.com/watch?v=0l9Ycz8mZHY&t=1s))
-
-![image](https://github.com/bayarovici/radiology_nle/assets/33934892/44a682b0-a296-4afb-9b74-589dbe3ea2c9)
-
-
 
 
 Buna ziua! Ma numesc Bayar Menzat si lucrez in cercetare in inteligenta artificiala la University of Oxford.  
