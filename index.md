@@ -1,6 +1,6 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
 ![image](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22){:height="36px" width="36px"}
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22)"  width="600" height="300">
+<img src="[[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22)](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22)"  width="600" height="300">
 
  [![Prezentare video:]
 ()]
