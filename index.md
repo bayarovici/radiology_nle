@@ -1,9 +1,9 @@
 ## Interpretarea radiografiilor cu ajutorul modelelor de AI
-![image](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22)
+![image](https://github.com/bayarovici/radiology_nle/assets/33934892/4b3a1c98-a4e8-4316-92bd-ceb8368c0c22 | width=100)
 
 
-[![Final video of fixing issues in your code in VS Code]
-(https://github.com/bayarovici/radiology_nle/assets/33934892/44a682b0-a296-4afb-9b74-589dbe3ea2c9)]
+ [![Prezentare video:]
+()]
 ([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://www.youtube.com/watch?v=0l9Ycz8mZHY&t=1s))
 
 ![image](https://github.com/bayarovici/radiology_nle/assets/33934892/44a682b0-a296-4afb-9b74-589dbe3ea2c9)
